@@ -59,12 +59,6 @@ Here’s how the application works:
 
 ---
 
-## **Screenshots**
-### User Interface:
-![UI Example](https://via.placeholder.com/800x400?text=Add+Screenshots+Here)
-
----
-
 ## **Future Improvements**
 - Add user ratings to enhance recommendations.
 - Implement genre-based or actor-based filtering.
